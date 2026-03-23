@@ -1,7 +1,6 @@
 # Rooster Bundle & Colour Profitability Analysis
 
 **Tools:** Python · Pandas · Scikit-learn · Matplotlib · Tableau · Jupyter  
-**Context:** UTS Master of Business Analytics — Assessment 3 (2025)
 
 ## Project Overview
 End-to-end analysis of e-commerce bundle performance, colour profitability,
